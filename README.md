@@ -21,7 +21,7 @@ The dataset used in this project is sourced from Kaggle and contains transaction
 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download 
 
 
-⸻
+
 
 # Technologies Used
 
@@ -34,7 +34,7 @@ Seaborn
 Scikit-learn
 Pandas profiling
 
-⸻
+
 
 # Machine Learning Workflow
 
@@ -47,8 +47,7 @@ Pandas profiling
 7. Model Training
 8. Model Evaluation
 9. Performance Comparison
-
-⸻
+    
 
 # Evaluation Metrics
 
@@ -59,7 +58,7 @@ The models are evaluated using:
 * Recall
 * Confusion Matrix
 
-⸻
+
 
 # Project Structure
 
